@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Video Downloader",
+  "description": "Cross-platform video downloader with 4K resolution support, batch downloads, offline playlist manager, built-in media player, dark mode, cloud synchronization, and push notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
